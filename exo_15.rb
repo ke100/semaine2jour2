@@ -6,7 +6,6 @@ puts year_of_birth
 
 i= -1
 age.times do
-    puts age = i = i+1
-    e=year_of_birth
-puts year_of_birth = e+1
+    puts age = i = i+1   
+    puts year_of_birth = year_of_birth+1
 end
